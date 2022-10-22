@@ -1,18 +1,18 @@
 
 <p>
-  <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  <!-- <img src="https://raw.githubusercontent.com/Jonas-Grossi/Jonas-Grossi/master/img/github.gif" width=100>
   <br><br> -->
   <samp>
-    Hello, I'm <a href="https://coderjojo.netlify.app/">Vedant</a> working at <a href="https://www.nutanix.com/">@Nutanix </a>.Interested in learning and exploring more about Platform/Infra engineering, DevOps and Backend Development. 
+    Hello, I'm <a href="https://app.netlify.com/teams/jonas-grossi/overview">Jonas-Grossi</a> working at <a href="https://emcomp.com.br/">@Nutanix </a>.Interested in learning and exploring more about Platform/Infra engineering, DevOps and Backend Development. 
   </samp>
 </p>
 
 ### Connect with me :smiley:
-<a href="https://twitter.com/cs_vedant">
-  <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+<a href="https://twitter.com/jonasgrossi">
+  <img align="left" alt="Jonas Grossi Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
-<a href="https://dev.to/coderjojo">
-  <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
+<a href="https://dev.to/jonasgrossi">
+  <img align="left" alt="Jonas Grossi DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
 </a>
 <a href="#">
   <img align="left" alt="Vedant Jajoo Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
