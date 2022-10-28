@@ -15,7 +15,7 @@
   <img align="left" alt="Jonas Grossi DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Vedant Jajoo Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
+  <img align="left" alt="Jonas Grossi Facebook" width="21px" src="https://github.com/Jonas-Grossi/Jonas-Grossi/blob/main/img/face.png" />
 </a>
 <a href="https://www.linkedin.com/in/jonas-grossi-03249a200">
   <img align="left" alt="Jonas Grossi Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
