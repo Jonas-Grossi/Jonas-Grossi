@@ -3,7 +3,7 @@
   <!-- <img src="https://raw.githubusercontent.com/Jonas-Grossi/Jonas-Grossi/master/img/github.gif" width=100>
   <br><br> -->
   <samp>
-    Hello, I'm <a href="https://app.netlify.com/teams/jonas-grossi/overview">Jonas-Grossi</a> working at <a href="https://emcomp.com.br/">@Emcomp </a>.Interested in learning and exploring more about Platform/Infra engineering, Front and Backend Development. 
+    Hello, I'm <a href="https://facebook.com/jonasgrossi">Jonas-Grossi</a> working at <a href="https://emcomp.com.br/">@Emcomp </a>.Interested in learning and exploring more about Platform/Infra engineering, Front and Backend Development. 
   </samp>
 </p>
 
