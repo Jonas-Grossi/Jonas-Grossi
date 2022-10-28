@@ -23,9 +23,8 @@
 <a href="https://www.instagram.com/jonas_grossi/">
   <img align="left" alt="Jonas Grossi Instagram" width="21px" src="https://github.com/Jonas-Grossi/Jonas-Grossi/blob/main/img/instagram.png" />
 </a>
-<a href="https://www.quora.com/profile/Vedant-Jajoo-1">
-  <img align="left" alt="Vedant Jajoo Medium" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
-</a><br/><br/>
+
+<br/><br/>
 <p align="center">
 <!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
 </p>
