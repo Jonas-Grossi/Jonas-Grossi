@@ -14,7 +14,7 @@
 <a href="https://dev.to/jonasgrossi">
   <img align="left" alt="Jonas Grossi DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
 </a>
-<a href="#">
+<a href="https://facebook.com/jonasgrossi">
   <img align="left" alt="Jonas Grossi Facebook" width="21px" src="https://github.com/Jonas-Grossi/Jonas-Grossi/blob/main/img/face.png" />
 </a>
 <a href="https://www.linkedin.com/in/jonas-grossi-03249a200">
